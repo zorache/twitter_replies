@@ -1,0 +1,38 @@
+[
+    {
+        "comments": [
+            "@rmoutlook Cry me a river, quietly of course.",
+            "@rmoutlook There's a vaccine that would help protect you. #Morons",
+            "@rmoutlook Kinda should have thought about that before you committed crimes",
+            "@rmoutlook At least he will be with people he shares interests with \u2728",
+            "@rmoutlook Ha.  Clearly he hasn\u2019t beaten halitosis-19"
+        ],
+        "id": "1498453254715305989",
+        "comments100_emotions_mean_pooling": {
+            "anger": 0.4000000059604645,
+            "anticipation": 0.0,
+            "disgust": 0.4000000059604645,
+            "fear": 0.0,
+            "joy": 0.20000000298023224,
+            "love": 0.0,
+            "optimism": 0.20000000298023224,
+            "pessimism": 0.0,
+            "sadness": 0.20000000298023224,
+            "surprise": 0.0,
+            "trust": 0.0
+        },
+        "comments100_emotions_max_pooling": {
+            "anger": 1.0,
+            "anticipation": 0.0,
+            "disgust": 1.0,
+            "fear": 0.0,
+            "joy": 1.0,
+            "love": 0.0,
+            "optimism": 1.0,
+            "pessimism": 0.0,
+            "sadness": 1.0,
+            "surprise": 0.0,
+            "trust": 0.0
+        }
+    }
+]
